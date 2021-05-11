@@ -4,6 +4,11 @@
 //npm install discord.js
 //node index.js(FileName)
 
+/*
+  Name: Noah Scott
+*/
+
+
 //chalk npm file
 const chalk = require('chalk');
 
